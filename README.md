@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render?user=smabrukar74&pet=smabrukar74-dashachi-dog-forest&name=Dashachi&type=dog&mood=happy&theme=forest)
+![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render?user=smabrukar74&pet=smabrukar74-dashachi-dog-classic&name=Dashachi&type=dog&difficulty=easy&theme=classic&bornAt=2026-04-07T06%3A03%3A56.250Z&timezone=America%2FNew_York)
 <!-- CommitGachi proudly created by @arnavmabrukar  (https://commitgachi.vercel.app) -->
 
 <!--
