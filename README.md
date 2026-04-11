@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render?user=smabrukar74&pet=smabrukar74-dashachi-dog-classic&name=Dashachi&type=dog&difficulty=easy&theme=classic&bornAt=2026-04-07T06%3A03%3A56.250Z&timezone=America%2FNew_York)
+![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render.svg?pet=cg1_eyJ2IjoxLCJ1c2VyIjoic21hYnJ1a2FyNzQiLCJuYW1lIjoiRGFzaEdhY2hpIiwidHlwZSI6ImRvZyIsImRpZmZpY3VsdHkiOiJlYXN5IiwidGhlbWUiOiJmb3Jlc3QiLCJib3JuQXQiOiIyMDI2LTA0LTExVDE4OjU3OjM2LjUwMFoiLCJ0aW1lem9uZSI6IkFtZXJpY2EvTmV3X1lvcmsifQ&refresh=1)
 <!-- CommitGachi proudly created by @arnavmabrukar  (https://commitgachi.vercel.app) -->
 
 <!--
